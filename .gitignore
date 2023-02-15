@@ -1,0 +1,35 @@
+# 2023 cmake tutorial (ignore files)
+
+# binary files
+[Bb]in
+[Oo]bj
+
+# compiled libraries (static)
+*.lib
+*.lai
+*.la
+*.a
+
+# compiled libraries (dynamic)
+*.dll
+*.so
+*.dylib
+
+# visual studio files
+[Dd]ebug
+[Rr]elease
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.pch
+*.pdb
+*.obj
+*sdf
+.vs
+
+# vscode
+.vscode
+
+# look-forward
+# [1] **/cmake/build/
+# [2] build/*
